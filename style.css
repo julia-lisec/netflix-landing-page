@@ -361,6 +361,10 @@ img {
 
 }
 
+.btn-icon {
+  margin-left: 1rem;
+}
+
 @media(max-width: 700px) {
 
   .showcase::after {
